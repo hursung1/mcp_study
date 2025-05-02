@@ -1,0 +1,21 @@
+[
+    {
+      "major_heading": "MAJOR HEADING",
+      "sub_heading": "SUB HEADING",
+      "written_date": "2023-12-22",
+      "department": "DEPARTMENT",
+      "filter_date": ["2023-12-22", "2024-12-22"], 
+      "contractors": ["CONTRACTOR1", "CONTRACTOR2", "CONTRACTOR3"],
+      "investment_risk_rate": "RATE1",
+      "writer": "WRITER",
+      "phone": "010-0000-0000",
+      "email": "aaa@google.com",
+      "minor_heading": "MINOR HEADING",
+      "page": "1",
+      "doc_type": "DOC, TYPE",
+      "tags": "tag1, tag2, tag3",
+      "text": "TEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXTTEXT",
+      "image": "IMAGE PATH",
+      "image_caption": "IMAGE CAPTION"
+    }
+  ]
